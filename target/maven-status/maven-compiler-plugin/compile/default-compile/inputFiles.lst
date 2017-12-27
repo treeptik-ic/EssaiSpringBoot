@@ -1,5 +1,6 @@
 /home/cedric/Documents/workspacePotes/EssaiSpringBoot/src/main/java/fr/lamaud/Application.java
+/home/cedric/Documents/workspacePotes/EssaiSpringBoot/src/main/java/fr/lamaud/DefaultSecurityController.java
+/home/cedric/Documents/workspacePotes/EssaiSpringBoot/src/main/java/fr/lamaud/config/SpringSecurityConfig.java
 /home/cedric/Documents/workspacePotes/EssaiSpringBoot/src/main/java/fr/lamaud/MustacheController.java
-/home/cedric/Documents/workspacePotes/EssaiSpringBoot/src/main/java/fr/lamaud/HelloControllerIT.java
-/home/cedric/Documents/workspacePotes/EssaiSpringBoot/src/main/java/fr/lamaud/HelloControllerTest.java
+/home/cedric/Documents/workspacePotes/EssaiSpringBoot/src/main/java/fr/lamaud/error/MyAccessDeniedHandler.java
 /home/cedric/Documents/workspacePotes/EssaiSpringBoot/src/main/java/fr/lamaud/HelloController.java
